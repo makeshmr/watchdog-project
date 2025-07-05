@@ -48,3 +48,11 @@ This project demonstrates a simple monitoring and alerting system using shell sc
 - 💬 Slack Webhook API
 - 🐧 Ubuntu/Linux
 
+
+## 🎥 Demo Video
+
+Watch a 3-minute walkthrough of this project in action:
+
+[![Watch the demo](https://img.youtube.com/vi/-xzWyFptNZg/0.jpg)](https://youtu.be/-xzWyFptNZg)
+
+> 🔗 [Click here to watch the demo on YouTube](https://youtu.be/-xzWyFptNZg)
